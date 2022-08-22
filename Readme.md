@@ -1,1 +1,1 @@
-Esses códigos foram criados a partir dos desafios do evendo 7DaysOfCode com a instrutora fron-end Rafa Ballerini da Alura.
+Esses códigos foram criados a partir dos desafios do evento 7DaysOfCode com a instrutora fron-end Rafa Ballerini da Alura.
